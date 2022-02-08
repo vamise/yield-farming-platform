@@ -17,7 +17,7 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'CropperFinance',
+        title: 'FyfyFinance',
         htmlAttrs: {
             lang: 'en'
         },
