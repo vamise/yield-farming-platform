@@ -17,7 +17,7 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'FyfyFinance',
+        title: 'CropperFinance',
         htmlAttrs: {
             lang: 'en'
         },
@@ -27,7 +27,7 @@ export default {
                 name: 'viewport',
                 content: 'width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'
             },
-            { hid: 'description', name: 'description', content: 'The permissionless yield farming protocol on Solana.' }
+            { hid: 'description', name: 'description', content: 'The first permissionless yield farming protocol on Solana.' }
         ],
         link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
     },
